@@ -1,0 +1,70 @@
+/* TUI readme viewer CSS override */
+.ProseMirror{
+    font-size: 16px !important;
+}
+
+.toastui-editor-contents > p > img{
+    margin:auto;
+}
+
+.toastui-editor-contents *{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #d0d0d0 !important;
+}
+
+.toastui-editor-contents a{
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #fff !important;
+}
+
+.toastui-editor-contents h1{
+    border-bottom: 2px solid #4B5563 !important;
+    font-size: 32px !important;
+    color: white !important;
+}
+
+.toastui-editor-contents h2{
+    text-align: center;
+    border-bottom: 2px solid #4B5563 !important;
+    font-size: 28px !important;
+    color: white !important;
+    line-height: 30px !important;
+}
+
+.toastui-editor-contents h3{
+    font-size: 24px !important;
+    color: white !important;
+    margin-top: 50px !important;
+    line-height: 30px !important;
+}
+
+.toastui-editor-contents h4{
+    font-size: 20px !important;
+    color: white !important;
+    margin-top: 50px !important;
+    line-height: 30px !important;
+}
+
+.toastui-editor-contents h5{
+    font-size: 16px !important;
+    color: white !important;
+    margin-top: 25px !important;
+    line-height: 30px !important;
+}
+
+.toastui-editor-contents h6{
+    font-size: 16px !important;
+    color: white !important;
+}
+
+.toastui-editor-contents pre{
+    background-color: #111827 !important;
+    margin-top: 10px !important;
+}
+
+.toastui-editor-contents code{
+    background-color: #111827 !important;
+}
+
