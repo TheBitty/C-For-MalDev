@@ -1,0 +1,5 @@
+﻿  main.c
+D:\C\PayloadPlacements\.text\textdatasection\textdatasection\main.c(44,22): warning C4090: 'function': different 'const' qualifiers
+  textdatasection.vcxproj -> D:\C\PayloadPlacements\.text\textdatasection\x64\Debug\textdatasection.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

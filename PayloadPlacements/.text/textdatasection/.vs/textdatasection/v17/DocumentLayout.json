@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\\PayloadPlacements\\.text\\textdatasection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9035C3A-2289-48E0-9CA3-51B03A1FA4FA}|textdatasection\\textdatasection.vcxproj|D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9035C3A-2289-48E0-9CA3-51B03A1FA4FA}|textdatasection\\textdatasection.vcxproj|solutionrelative:textdatasection\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9035C3A-2289-48E0-9CA3-51B03A1FA4FA}|textdatasection\\textdatasection.vcxproj|D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\textsection.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{B9035C3A-2289-48E0-9CA3-51B03A1FA4FA}|textdatasection\\textdatasection.vcxproj|solutionrelative:textdatasection\\textsection.MD||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "textsection.MD",
+              "DocumentMoniker": "D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\textsection.MD",
+              "RelativeDocumentMoniker": "textdatasection\\textsection.MD",
+              "ToolTip": "D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\textsection.MD",
+              "RelativeToolTip": "textdatasection\\textsection.MD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-03T21:55:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\main.c",
+              "RelativeDocumentMoniker": "textdatasection\\main.c",
+              "ToolTip": "D:\\C\\PayloadPlacements\\.text\\textdatasection\\textdatasection\\main.c",
+              "RelativeToolTip": "textdatasection\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-03T21:47:39.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
